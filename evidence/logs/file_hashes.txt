@@ -1,0 +1,10 @@
+Operation Iron Raven — Evidence File Hashes
+=============================================
+
+flag3.png
+  Path (on target):  /wordpress/wp-content/uploads/2018/11/flag3.png
+  SHA256: 2479b9ab0c0763bf9bdc4c2fc36c701001a013a557a5a9f6beda44b024d9cc2e
+  Hashed via: sha256sum
+
+Flag value recovered:
+  flag3{a0f568aa9de277887f37730d71520d9b}
