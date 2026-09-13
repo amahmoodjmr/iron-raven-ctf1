@@ -1,11 +1,11 @@
-# CIP-A105 — Offensive Security Operations II — CTF 1: Operation Iron Raven
+# CIP-A105 - Offensive Security Operations II - CTF 1: Operation Iron Raven
 
 **Student:** Abubakar Mahmood Muhammad (Sadeeq)
 **Registration Number:** C11/26/EHIT/17332
 **Target:** OPFOR-01 (raven.local / 192.168.72.130)
-**Assessment Window:** 06 Sep 2026 00:00 WAT – 13 Sep 2026 23:59 WAT
+**Assessment Window:** 06 Sep 2026 00:00 WAT – 16 Sep 2026 23:59 WAT
 **Submission Date:** 15/09/2026
-**Classification:** TRAINING USE ONLY — DO NOT REDISTRIBUTE
+**Classification:** TRAINING USE ONLY, DO NOT REDISTRIBUTE
 
 ## Contents
 
